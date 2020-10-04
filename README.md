@@ -1,6 +1,6 @@
 <h1 align="center">allinone.sh</h1>
 <div align="center">
-<img src="https://forthebadge.com/images/badges/mom-made-pizza-rolls.svg" >
+<img src="https://forthebadge.com/images/badges/built-with-swag.svg" >
 </div>
 
 ## Features:
