@@ -19,12 +19,23 @@ $ git clone https://github.com/amykr777/allinone.sh
 $ cd allinone.sh
 $ sudo bash check.sh
 ```
+<p align="center">
+  <img src="https://1.bp.blogspot.com/--JnuuVfOMs8/X4U18RrLZsI/AAAAAAAADWI/aeefUIbI-LEIOVwPxlBA-fV02Ga33kY9gCLcBGAsYHQ/s1346/asset-check.png" alt="Check Installation" height="250" width="800">
+  </p>
+
 
 ## Usage:
 ```
 $ sudo bash allinone.sh subs.txt
 ```
--**Edit the subs.txt file with all the domains that you want to test**
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-h-1154yOdbo/X4U18Vq5-wI/AAAAAAAADWM/9znCpsjW0sIfLuz5akfydEvkxyS1WRTpwCLcBGAsYHQ/s1347/asset-run.png" alt="Run Program" height="475" width="800">
+  </p>
+
+**Edit the subs.txt file with all the domains that you want to test**
+<p align="center">
+  <img src="https://1.bp.blogspot.com/-dofIbEhOZrg/X4U18JzXHSI/AAAAAAAADWE/OQW8bBxiA5oemmPtynMC4kl6X8nbqWLtACLcBGAsYHQ/s1349/asset-subs.png" alt="Edit Domains" height="175" width="800">
+  </p>
 
 ### Compatible On 🛠️
 <p align="center">
