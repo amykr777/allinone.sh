@@ -5,7 +5,7 @@
 
 ## Features:
 
-- Find Subdomains in Seconds.
+- Find Subdomains in Seconds using multiple tools.
 - Check for possible subdomain takeover via various tools.
 - Check for HSTS.
 - Check for Open-Redirect vulnerability.
